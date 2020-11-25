@@ -40,7 +40,7 @@ paramters and will be when I come back to address my unresolved items listed bel
 
 I will be dreaming of the 12 locations highlighted below!
 
-![](vacationpy/pics/marker_map.png)
+![](vacationpy/Pics/marker_map.png)
 
 
 Unresolved items- 
